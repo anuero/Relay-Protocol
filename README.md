@@ -13,7 +13,6 @@ protection.
 ![license](https://img.shields.io/badge/license-Apache--2.0-green)
 ![tests](https://img.shields.io/badge/tests-133%20passing-brightgreen)
 
-
 ---
 
 ### Why it exists
@@ -45,7 +44,7 @@ inside is what the server cannot decrypt.
 There is no PyPI release yet, so clone the repo and install it in place:
 
 ```bash
-git clone https://github.com/anuero/Relay-Protocol.git
+git clone https://github.com/anuero/Relay-Protocol.git secure-websocket-sdk
 cd secure-websocket-sdk
 python -m venv .venv
 . .venv/Scripts/activate       # Windows
@@ -277,5 +276,3 @@ Contact: TG **@extendio**
 ### License
 
 Apache-2.0.
-
----
