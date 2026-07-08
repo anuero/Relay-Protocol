@@ -1,0 +1,14 @@
+secure-websocket-sdk
+Copyright 2026 secure-websocket-sdk contributors
+
+This product includes software developed by the secure-websocket-sdk
+contributors, licensed under the Apache License, Version 2.0.
+
+It depends on, but does not include, the following third-party libraries
+(installed separately via pip), each under its own license:
+  - cryptography (pyca)      — Apache-2.0 / BSD
+  - noiseprotocol            — MIT
+  - websockets               — BSD-3-Clause
+
+This is EXPERIMENTAL software and has NOT been independently audited.
+Do not use it to protect real users' data. See SECURITY.md and THREAT_MODEL.md.
